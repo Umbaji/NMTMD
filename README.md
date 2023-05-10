@@ -6,7 +6,6 @@ The Yodi project is focused on developing a general language model for everyday 
 
 # Objective
 
-##### • Develop a general language model for everyday life and the industry in Ewè, spoken in West Africa !
 ##### • Develop a Machine Translation Model with correspondant Ewè alphabet
 
 # Key Results 

@@ -7,7 +7,7 @@ Official repository for the Opensource Textdataset for NMT for local langues in 
 ### To do :
 
 ##### • Develop a Machine Translation Model with correspondant Ewè alphabet
-##### There are 2 aims to be accomplished: 
+##### There are 2 Goals to be accomplished: 
 ###### -> Develop & Measure the accuracy or the performance of the available TTS Google model
 ###### -> Develop & Measure the accuracy of Yodi built from Umbaji dataset
 

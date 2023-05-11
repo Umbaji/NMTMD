@@ -8,7 +8,7 @@ import requests
 from selenium.webdriver.common.by import By
 
 ######################################################################################
-### Please make sure you read readme_get_content_py before.                      #####
+### Please make sure you read readme_Automater_py before.                      #####
 ### This file defines the bot to be used by the developers to get content online #####
 ### depending on the website you might want to secure your cerdentials in the    #####
 ### before scarpping the content.                                                #####

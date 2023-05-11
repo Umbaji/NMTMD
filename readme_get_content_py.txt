@@ -10,6 +10,8 @@ Please make sure you save the file in the appropriate folder
     i.e. root_en is the folder for translated record in English
     Your english translation data need to be inputed there.
 
+2 - Text : 
+
 2- Original_text : save the cotent into a csv file
      Label your original sentence in Yoruba/ Ewe and add the 
      metadat in the csv by paying attention that it is numbered.

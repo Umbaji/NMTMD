@@ -1,19 +1,16 @@
 # Melinda-Text-Dataset
 Official repository for the Opensource Textdataset for NMT for local langues in West Africa (EWE Corpus)
-# Yodi :The Speech Recognition for Ewè :
-This is official repository of Yodi.
-The Yodi project is focused on developing a general language model for everyday life and the industry in Ewè, spoken in West Africa ! 
 
 # Objective
 
-##### • Develop a Machine Translation Model with correspondant Ewè alphabet
+##### • Develop a Machine Translation Text and Speech Dataset NMT for local langues in West Africa (EWE Corpus)
 
 # Key Results 
 
-###### -> Develop & Measure the accuracy or the performance of the available TTS Google model
-###### -> Develop & Measure the accuracy of Yodi built from Umbaji dataset
+###### -> Develop & Measure the accuracy or the performance of the Yodi model from this dataset for text to text translation.
+###### -> Develop & Measure the accuracy of Yodi built from this dataset for Speech recognition.
 
-##### Remark : Getting accurate data and labelled data from available source onlie or in local written papers would be necessary for machine sentence translation. (Research to be done to ascertain the quantity data necessary)
+##### Remark : Getting accurate data and labelled data from available source onlie or in local written papers would be necessary for machine sentence translation. 
 
 Feel free to add your labelled or unlabeled NMT data to the repository.
 

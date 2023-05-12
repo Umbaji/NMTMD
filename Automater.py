@@ -128,7 +128,7 @@ class Automater():
                 
                 print(content)
                 
-##                temp_out_df = pd.DataFrame(columns = ["title","source","content"], data = content)
+##                temp_out_df = 
 ##                
 ##                print(temp_out_df)
 ##                
@@ -145,8 +145,8 @@ class Automater():
             except : 
                 
                 pass
-        
-        
+
+        print('Content gathered !')
         
         return out_list
 
@@ -173,5 +173,28 @@ if __name__ == "__main__":
     
     otest_list = test_bot.get_content()
 
-    test_bot.out_csv(outt_file,otest_list)
-    
+    try : 
+
+        test_bot.out_csv(outt_file,otest_list)
+        
+    except :
+
+        pass
+
+    try :
+        
+        with open('file.txt','w') as file:
+            file.write(str(otest_list))
+    except :
+
+        pass
+
+    try :
+
+        out_df = pd.DataFrame(columns = ["title","source","content"], data = content)
+
+        out_df.to_csv("out.csv")
+        
+    except :
+
+        pass

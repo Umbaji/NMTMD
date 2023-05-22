@@ -4,10 +4,12 @@ Official repository for the Opensource Textdataset for NMT for local langues in 
 # Objective
 
 ##### • Develop a Machine Translation Text and Speech Dataset NMT for local langues in West Africa (EWE Corpus)
+Task 1 Data celaning orginial text available here : https://togochretien.com/ewe-matthieu/ ( change the ewe-matthieu to ewe-chapter_name to get the proper web page)
 
 # Key Results 
 
 ###### -> Develop & Measure the accuracy or the performance of the Yodi model from this dataset for text to text translation.
+
 ###### -> Develop & Measure the accuracy of Yodi built from this dataset for Speech recognition.
 
 ##### Remark : Getting accurate data and labelled data from available source onlie or in local written papers would be necessary for machine sentence translation. 

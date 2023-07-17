@@ -6,7 +6,6 @@ Note : This repository will elvolve intto the official repository for the Yodi m
 # Objective
 
 ##### • Develop a Machine Translation Text and Speech Dataset NMT for local langues in West Africa (EWE Corpus)
-Task 1 Data celaning orginial text available here : https://togochretien.com/ewe-matthieu/ ( change the ewe-matthieu to ewe-chapter_name to get the proper web page)
 
 # Key Results 
 
@@ -16,7 +15,13 @@ Task 1 Data celaning orginial text available here : https://togochretien.com/ewe
 
 ##### Remark : Getting accurate data and labelled data from available source onlie or in local written papers would be necessary for machine sentence translation. 
 
-Feel free to add your labelled or unlabeled NMT data to the repository.
+# Ongoing : 
+
+####### Develop the metrics for the dataset, How many total sentences for each files and how many words ?
+
+Feel free to add your labelled or unlabeled NMT data to the repository and perform the measurements as well.
+
+Instructions are available in project_contributions_instructions.txt
 
 Please register at https://sites.google.com/umbaji.org/yodi/home to build the 
 largest NMT text Dataset for West Africa.

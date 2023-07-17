@@ -15,9 +15,9 @@ Note : This repository will elvolve intto the official repository for the Yodi m
 
 ##### Remark : Getting accurate data and labelled data from available source onlie or in local written papers would be necessary for machine sentence translation. 
 
-# Ongoing : 
+# Ongoing
 
-####### Develop the metrics for the dataset, How many total sentences for each files and how many words ?
+####### -> Develop the metrics for the dataset, How many total sentences for each files and how many words ?
 
 Feel free to add your labelled or unlabeled NMT data to the repository and perform the measurements as well.
 

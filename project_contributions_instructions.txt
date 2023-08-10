@@ -18,3 +18,5 @@ Please make sure you save the file in the appropriate folder
 3- Translated_data : save the translated con
      Label your translated sentence in En/Fr and add the 
      metadat in the csv by paying attention that it is numbered.
+     
+4 - Please ensure to save a csv version of your dataset as well.

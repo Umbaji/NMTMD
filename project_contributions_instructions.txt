@@ -20,3 +20,5 @@ Please make sure you save the file in the appropriate folder
      metadat in the csv by paying attention that it is numbered.
      
 4 - Please ensure to save a csv version of your dataset as well.
+
+5-  Enter the necessary dataprocessing remarks on the a file named {dataset_name}_oremarks.txt

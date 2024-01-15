@@ -16,11 +16,12 @@ Note: This repository will evolve into the official repository for the Yodi mode
 ##### Remark: Getting accurate data and labeled data from available sources online or in local written papers would be necessary for machine sentence translation. 
 
 # Ongoing
+![Dataset Analytics png](https://github.com/Umbaji/NMT-Melinda--Dataset/assets/125580751/48cd7ba5-bbb8-4eb4-b04f-8d901be176a1)
 
-####### -> Develop the metrics for the dataset, How many total sentences for each file, and how many words?
+![image](https://github.com/Umbaji/NMT-Melinda--Dataset/assets/125580751/2850be94-fd74-4f61-b757-fc228a5c61b4)
 
-Feel free to add your labeled or unlabeled NMT data to the repository and perform the measurements as well.
 
+Feel free to share your analytics in the discussions!
 Instructions are available in project_contributions_instructions.txt
 
 Please register at https://sites.google.com/umbaji.org/yodi/home to build the 

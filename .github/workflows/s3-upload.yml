@@ -27,5 +27,5 @@ jobs:
 
       - name: Upload to S3
         run: |
-          aws s3 sync Original_text/ s3://nmt-melinda--dataset/Original_text/
-          aws s3 sync translated_data/ s3://nmt-melinda--dataset/translated_data/
+          aws s3 sync Original_text/ s3://nmt-melinda-dataset
+          aws s3 sync translated_data/ s3://nmt-melinda-dataset

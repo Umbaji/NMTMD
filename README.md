@@ -34,6 +34,7 @@ from Dictionaries.ewedict995 import ewe_to_english as ewedict
 # Example usage
 print(kabdict.get('word', 'Word not found'))
 print(ewedict.get('word', 'Word not found'))
+'''
 
 # Ongoing
 ![Dataset Analytics png](https://github.com/Umbaji/NMT-Melinda--Dataset/assets/125580751/48cd7ba5-bbb8-4eb4-b04f-8d901be176a1)

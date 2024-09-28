@@ -1,4 +1,4 @@
-# Melinda-Text-Dataset
+# NMTMD (NMT-Melinda-Dataset)
 Official repository for the Opensource Text dataset for NMT for local languages in West Africa (EWE Corpus) and implement the Yodi model after hand. 
 
 Note: This repository will evolve into the official repository for the Yodi model, once the necessary data is gathered.
